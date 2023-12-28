@@ -12,15 +12,14 @@ Este repositório abriga uma simples aplicação de lista de tarefas, criada par
 ## Como Utilizar
 
 1. **Adicionar Tarefa:**
-   - Clique no botão "Adicionar Tarefa".
    - Digite a descrição da nova tarefa.
-   - Pressione Enter ou clique em "Adicionar".
+   - Pressione Enter ou clique em "Add".
 
 2. **Concluir Tarefa:**
-   - Marque a caixa de seleção ao lado da tarefa concluída.
+   - Clique na tarefa ser concluída.
 
 3. **Excluir Tarefa:**
-   - Clique no ícone de lixeira para remover uma tarefa.
+   - Clique no botão deletar ao lado da tarefa para remove-la.
 
 4. **Visualizar Tarefas Pendentes:**
    - As tarefas não concluídas são exibidas em destaque.
