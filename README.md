@@ -24,6 +24,10 @@ Este repositório abriga uma simples aplicação de lista de tarefas, criada par
 4. **Visualizar Tarefas Pendentes:**
    - As tarefas não concluídas são exibidas em destaque.
 
+## Projeto em Funcionamento
+
+Confira o projeto em funcionamento [aqui](https://lista-de-tarefas-mu-three.vercel.app/).
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar esta lista de tarefas.
